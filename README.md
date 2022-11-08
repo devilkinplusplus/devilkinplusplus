@@ -1,5 +1,5 @@
-                                               #Hi👋,I'm Ilkin Rufullayev
-                                               ---------------------------
+ #                                              Hi👋,I'm Ilkin Rufullayev
+                               
 - I'm C# and Web developer
 - I'm currently learning Javascript
 

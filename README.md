@@ -1,6 +1,6 @@
  # Hi👋,I'm Ilkin Rufullayev
                                
-- I'm C# and Web developer
+- I'm C# and Backend developer
 - I'm currently learning Javascript
 
 ![alt text](https://www.codewars.com/users/devilkinplusplus/badges/large)

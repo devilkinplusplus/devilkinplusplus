@@ -1,6 +1,6 @@
  # Hi👋,I'm Ilkin Rufullayev
                                
-- I'm <b>C#</b> and <b>Backend developer</b>
+- I'm <b>Backend C# developer</b>
 - I'm currently learning <b>Javascript</b> and <b>MERN Stack</b>
 
 ![alt text](https://www.codewars.com/users/devilkinplusplus/badges/large)

@@ -22,7 +22,7 @@
 
 <h1>:eyes: Stats </h1>
 <div align='center'> 
-<a href="https://github-readme-stats.vercel.app/api?username=devilkinplusplus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Ilkin Rufullayev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devilkinplusplus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=devilkinplusplus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=devilkinplusplus&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  </div>
 
 

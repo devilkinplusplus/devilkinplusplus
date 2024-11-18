@@ -1,7 +1,7 @@
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100"/>
 </div>
-<div align="center"><h1>I'm Ilkin 🚗</h1></div>
+<div align="center"><h1>I'm Ilkin </h1></div>
 <div align="center">
    <a href="https://www.linkedin.com/in/ilkin-rufullayev-923628240/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="mailto:rufullayevilkin66@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge"/> </a>
